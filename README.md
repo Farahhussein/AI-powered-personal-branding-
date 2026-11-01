@@ -15,6 +15,6 @@ roles and responsibilities:
 
 KPI's:
 
-instructor :
+instructor : mohamed elaswad 
 
 project files :
