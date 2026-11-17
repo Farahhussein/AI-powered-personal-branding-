@@ -6,7 +6,7 @@ project idea : doing  personal branding for a public figure including his brand 
 posts, reels, educational videos, stories and it's all AI-powered
 
 team members :
-Farah Hussein , Yousef Mahmoud Shawky , Mohamed Wagdy , Sara Saber , Samar Khaled 
+ Yousef Mahmoud Shawky , Mohamed Wagdy , Sara Saber , Samar Khaled , Farah Hussein 
 
 
 work plan :
